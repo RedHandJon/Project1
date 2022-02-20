@@ -1,6 +1,6 @@
 #include <iostream>
 #include <sdt>
-int main() 
+int main() // программа является учебной
 {
     setlocale(LC_ALL, "Russia");
     int x, y;
